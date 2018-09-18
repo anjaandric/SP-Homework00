@@ -9,6 +9,6 @@ def minmax(data):
     return smallest, largest
 
 
-alpha = [2, 2, 3, 4, 5, 6, 7, 8, 99]
+list = [2, 2, 3, 4, 5, 6, 7, 8, 99]
 
-print(minmax(alpha))
+print(minmax(list))
