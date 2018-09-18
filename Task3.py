@@ -1,1 +1,1 @@
-print(sum(i**2 for i in range(2,4)))
+print(sum(i**2 for i in range(1,4)))
